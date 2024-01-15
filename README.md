@@ -1,4 +1,4 @@
-## This repository contains the user-defined structural analysis routines for analysing structures of any geometry with `MASTAN2` GUI Integration. This project was carried out as course project for 235A Advanced Structural Analysis Course at UCLA.
+## This repository contains the user-defined structural analysis routines for analysing structures of any geometry with `MASTAN2` GUI Integration. This project was carried out as course project for 235A Advanced Structural Analysis Course at UCLA in Fall'23.
 
 ## Instructions to run the codes
 
